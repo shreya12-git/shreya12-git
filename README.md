@@ -52,26 +52,6 @@
 
 ---
 
-<h3 align="left">🏆 Achievements:</h3>
-<ul>
-  <li>Ranked 3033 with 71 points in Google Code Jam Qualification round</li>
-  <li>Hackerrank: 5-star in C++, SQL, Java</li>
-  <li>Solved over 1000+ coding challenges across LeetCode, GeeksforGeeks</li>
-  <li>2nd rank in the Game of Code Hackathon</li>
-  <li>Successfully contributed to 5 projects in Hacktoberfest 2023</li>
-</ul>
-
----
-
-<h3 align="left">🚀 Projects:</h3>
-<ul>
-  <li><strong>VcollabIT:</strong> A collaboration platform using React.js, Node.js, and MongoDB.</li>
-  <li><strong>EventOR:</strong> Event management app built with Flutter and Firebase.</li>
-  <li><strong>Job Board:</strong> Job listing platform using React.js and Express.js.</li>
-</ul>
-
----
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shreya-awasthi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
