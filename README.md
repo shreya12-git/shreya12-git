@@ -2,14 +2,7 @@
 <h3 align="center">VIT'25 | Full Stack Developer | Competitive Coder</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68704579/129339937-b058372f-3d90-4b3e-9b4c-ea85b2b9b8f6.png" alt="coding" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Codechef-1503-orange?style=for-the-badge&logo=codechef" alt="Codechef Rating" />
-  <img src="https://img.shields.io/badge/GFG%20Institute%20Rank-310-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Institute Rank" />
-</p>
-
+ 
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
